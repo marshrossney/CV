@@ -5,7 +5,7 @@ title: Joe Marsh Rossney
 # Joe Marsh Rossney
 
 <div id="webaddress">
-Joe.Marsh-Rossney \[at\] ed.ac.uk
+Joe.Marsh-Rossney[at]ed.ac.uk
 | <a href="https://marshrossney.github.io">marshrossney.github.io</a>
 </div>
 
