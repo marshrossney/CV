@@ -5,7 +5,7 @@ title: Joe Marsh Rossney
 # Joe Marsh Rossney
 
 <div id="webaddress">
-Joe.Marsh-Rossney@ed.ac.uk
+Joe.Marsh-Rossney \[at\] ed.ac.uk
 | <a href="https://marshrossney.github.io">marshrossney.github.io</a>
 </div>
 
@@ -21,7 +21,7 @@ I am also affiliated with the Coastal and Environmental Remote Sensing Group, un
 
 I am broadly interested in how modern computational techniques, such as Machine Learning, can be effectively utilised to solve diverse problems.
 The main focus of my PhD research is to address the problem of sampling in [Lattice Field Theory](http://scholarpedia.org/article/Lattice_quantum_field_theory) using [generative models](https://openai.com/blog/generative-models/).
-I also spend time thinking about strategies and infrastructure that would enable effective data-driven decision making in wider society.
+I also spend time thinking about strategies that would enable effective data-driven decision making in wider society.
 
 
 ### Active Projects
