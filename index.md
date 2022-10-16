@@ -21,17 +21,16 @@ I am also affiliated with the Coastal and Environmental Remote Sensing Group, un
 
 I am broadly interested in how modern computational techniques, such as Machine Learning, can be effectively utilised to solve diverse problems.
 The main focus of my PhD research is to address the problem of sampling in [Lattice Field Theory](http://scholarpedia.org/article/Lattice_quantum_field_theory) using [generative models](https://openai.com/blog/generative-models/).
-I also spend time thinking about strategies that would enable effective data-driven decision making in wider society.
 
+### Publications
 
-### Active Projects
+`2021` [Machine Learning Trivializing Maps](https://arxiv.org/abs/2112.15532) (Conference proceedings)
 
-[Machine Learning techniques for efficient sampling in Lattice Field Theory](https://indico.cern.ch/event/1006302/contributions/4380644/attachments/2279647/3873153/joe-marsh-rossney-poster.pdf), with Professor Luigi Del Debbio.
+`2021`
+[Efficient Modelling of Trivializing Maps for Lattice phi^4 Theory Using Normalizing Flows](https://arxiv.org/abs/2105.12481)
 
-[Neural network based estimation of ocean salinity from space](https://github.com/marshrossney/salinity-from-space), with Dr Encarni Medina-Lopez.
-
-[The UK Biodiversity Net Gain policy: theoretical concerns and case study](https://marshrossney.github.io/biodiversitymetric3), with the High Weald AONB Unit.
-
+`2021`
+[ANVIL: A Non-Volume preserving transformation Implementation on the Lattice](https://doi.org/10.5281/zenodo.4792249) (software)
 
 ### Past projects
 
@@ -51,21 +50,24 @@ __Internship__
 Assisting with the transition to new software for climate research, under the supervision of Professor Joanna Haigh, Imperial College London.
 
 
-### Publications
-
-`2021`
-[Efficient Modelling of Trivializing Maps for Lattice phi^4 Theory Using Normalizing Flows](https://arxiv.org/abs/2105.12481)
-
-`2021`
-[ANVIL: A Non-Volume preserving transformation Implementation on the Lattice](https://doi.org/10.5281/zenodo.4792249)
-
-
 ## Teaching
 
-`Ongoing`
-__Associate Fellow of the Higher Education Institute__
+### Qualifications
 
-Currently in progress. Qualification expected in December 2021.
+`2024`
+__\[In progress\] Fellow of the Higher Education Academy__
+
+I am currently progressing through the [Postgraduate Certificate in Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/postgraduate-certificate) course run by the Institute for Academic Development at the University of Edinburgh.
+Successful completion of this course (expected in February 2024) makes me eligible to become a Fellow of the Higher Education Academy.
+
+`2022`
+__Associate Fellow of the Higher Education Academy__
+
+I completed the [Introduction to Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/intro-ap) course run by the Institute for Academic Development at the University of Edinburgh.
+This resulted in accreditation by the Higher Education Academy Associate Fellowship.
+
+
+### Experience
 
 `2019-Present`
 __Tutor and Demonstrator__
@@ -73,10 +75,15 @@ __Tutor and Demonstrator__
 School of Physics and Astronomy, University of Edinburgh.
 Courses covering Fourier analysis, statistics, Python programming, laboratory skills.
 
+`2022`
+__Workshop on Python and Machine Learning__
+
+I ran this [workshop](https://marshrossney.github.io/ceres-workshop/) for the Coastal and Environmental Remote Sensing group at the University of Edinburgh.
+
 `2021`
 __Course Content Creator__
 
-Created a '[virtual experiment](https://www.github.com/marshrossney/percolation)' delivered to undergraduate students at the University of Edinburgh during the Covid-19 lockdown.
+I created a '[virtual experiment](https://www.github.com/marshrossney/percolation)' which was used as a substitute for laboratory work by undergraduate students at the University of Edinburgh during the Covid-19 lockdown.
 
 `2021`
 __Course Demonstrator__
@@ -103,9 +110,9 @@ __Personal Tutor__
 ## Education
 
 `2019-Present`
-__Doctor of Philosophy (Physics)__
+__\[In progress\] Doctor of Philosophy (Physics)__
 
-University of Edinburgh. Expected completion: 2023.
+University of Edinburgh. Expected completion: end 2023.
 
 `2014-2018`
 __Integrated Master's Degree (MPhys)__
@@ -146,6 +153,6 @@ Available upon request.
 
 ### Last updated
 
-October 2021
+October 2022
 
 
