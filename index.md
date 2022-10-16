@@ -29,8 +29,10 @@ The main focus of my PhD research is to address the problem of sampling in [Latt
 `2021`
 [Efficient Modelling of Trivializing Maps for Lattice phi^4 Theory Using Normalizing Flows](https://arxiv.org/abs/2105.12481)
 
+### Software
+
 `2021`
-[ANVIL: A Non-Volume preserving transformation Implementation on the Lattice](https://doi.org/10.5281/zenodo.4792249) (software)
+[ANVIL: A Non-Volume preserving transformation Implementation on the Lattice](https://doi.org/10.5281/zenodo.4792249)
 
 ### Past projects
 
@@ -47,7 +49,7 @@ Spectral function projection of TMDC alloys, under the supervision of Dr Nichola
 `2016`
 __Internship__
 
-Assisting with the transition to new software for climate research, under the supervision of Professor Joanna Haigh, Imperial College London.
+Assisting with the transition to new software for climate modelling, under the supervision of Professor Joanna Haigh, Imperial College London.
 
 
 ## Teaching
@@ -58,16 +60,22 @@ Assisting with the transition to new software for climate research, under the su
 __\[In progress\] Fellow of the Higher Education Academy__
 
 I am currently progressing through the [Postgraduate Certificate in Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/postgraduate-certificate) course run by the Institute for Academic Development at the University of Edinburgh.
-Successful completion of this course (expected in February 2024) makes me eligible to become a Fellow of the Higher Education Academy.
+This course is accredited by the Higher Education Academy at Fellowship level.
+Expected completion: Feb 2024.
 
 `2022`
 __Associate Fellow of the Higher Education Academy__
 
 I completed the [Introduction to Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/intro-ap) course run by the Institute for Academic Development at the University of Edinburgh.
-This resulted in accreditation by the Higher Education Academy Associate Fellowship.
+This course is accredited by the Higher Education Academy at Associate Fellowship level.
 
 
 ### Experience
+
+`2022-Present`
+__Edinburgh Teaching Award Mentor__
+
+Mentoring participants of [EdTA](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/teaching-award) at Category 1 level.
 
 `2019-Present`
 __Tutor and Demonstrator__
@@ -128,7 +136,7 @@ GCSEs: 10 x __A\*__, 2 x __A__.
 
 ## Positions of Responsibility
 
-`2021-Present`
+`2021-2022`
 __Society Treasurer__
 
 Conservation volunteering society, University of Edinburgh.
