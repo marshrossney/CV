@@ -12,27 +12,42 @@ Joe.Marsh-Rossney[at]ed.ac.uk
 
 ## Currently
 
-I am a PhD candidate based at the [Higgs Centre for Theoretical Physics](https://higgs.ph.ed.ac.uk/), University of Edinburgh.
-I am primarily affiliated with the [Particle Physics Theory Group](https://www.ph.ed.ac.uk/particle-physics-theory), under the supervision of Professor Luigi Del Debbio.
-I am also affiliated with the Coastal and Environmental Remote Sensing Group, under the supervision of Dr Encarni Medina-Lopez.
+I am a **PhD candidate** based at the [Higgs Centre for Theoretical Physics](https://higgs.ph.ed.ac.uk/) at the University of Edinburgh, under the supervision of Professor Luigi Del Debbio.
+
+I am also currently a part-time student working towards a [Postgraduate Certificate in Academic Practice](https://www.advance-he.ac.uk/postgraduate-certificate-academic-practice-pgcap), which means I spend a lot of my time teaching undergraduates and MSc students.
+
+After finishing my PhD in April I will begin a short-term research contract with the School of Physics and Astronomy, which is expected to end in September 2024.
 
 
-## Research
+## Research Interests
 
-I am broadly interested in how modern computational techniques, such as Machine Learning, can be effectively utilised to solve diverse problems.
-The main focus of my PhD research is to address the problem of sampling in [Lattice Field Theory](http://scholarpedia.org/article/Lattice_quantum_field_theory) using [generative models](https://openai.com/blog/generative-models/).
+Broadly speaking my efforts are always to practise thoughtful and responsible use of technology and data to solve the kinds of problems that matter to me, which are mostly themed around physics, education, the environment, and the future of work and creative activity.
 
-### Publications
+The primary focus of my PhD research has been on the problem of [Markov Chain Monte Carlo sampling](https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/) in [Lattice Field Theory](http://scholarpedia.org/article/Lattice_quantum_field_theory).
+Specifically, I've been looking at how certain [Generative Machine Learning](https://lilianweng.github.io/posts/2018-10-13-flow-models/) methods can mitigate the severe collapse in sampling efficiency known as [Critical Slowing Down](https://en.wikipedia.org/wiki/Critical_transition), which remains a significant barrier to Lattice QCD studies at fine lattice spacings.
 
-`2021` [Machine Learning Trivializing Maps](https://arxiv.org/abs/2112.15532) (Conference proceedings)
+I am currently spending a lot of time contemplating the promises and threats posed by [Generative Artificial Intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) to formative learning experiences, such as undergraduates learning to code for the first time.
+I have secured funding from the School of Physics and Astronomy to carry out research in this area over the summer.
+
+I am very interested in the modelling and monitoring of the natural environment, and was fortunate to join the Coastal and Environmental Remote Sensing Group as a 'visiting' student, where I developed Remote Sensing and GIS skills under the supervision of Dr Encarni Medina-Lopez.
+
+
+### Publications and Software
+
+`2023`
+Albandea, D., Del Debbio, L., Hernández, P., Kenway, R. **Marsh Rossney, J.** & Ramos, A. [Learning Trivializing Flows in a ϕ4 theory from coarser lattices](https://doi.org/10.48550/arXiv.2310.03381) \{preprint\}
+
+`2023`
+Albandea, D., Del Debbio, L., Hernández, P., Kenway, R. **Marsh Rossney, J.** & Ramos, A. [Learning trivializing flows](https://doi.org/10.1140/epjc/s10052-023-1183    8-8). Eur. Phys. J. C 83, 676 (2023). \{[arXiv version](https://doi.org/10.48550/arXiv.2302.08408)\}
 
 `2021`
-[Efficient Modelling of Trivializing Maps for Lattice phi^4 Theory Using Normalizing Flows](https://arxiv.org/abs/2105.12481)
-
-### Software
+Del Debbio, L., **Marsh Rossney, J.** & Wilson, M. [Machine Learning Trivializing Maps: A First Step Towards Understanding How Flow-Based Samplers Scale Up](https://doi.org/10.22323/1.396.0059). Proceedings of The 38th International Symposium on Lattice Field Theory - PoS(LATTICE2021), 396, 059. \{[arXiv version](https://doi.org/10.48550/arXiv.2112.15532)\}
 
 `2021`
-[ANVIL: A Non-Volume preserving transformation Implementation on the Lattice](https://doi.org/10.5281/zenodo.4792249)
+Del Debbio, L., **Marsh Rossney, J.** & Wilson, M. [Efficient modeling of trivializing maps for lattice ϕ4 theory using normalizing flows: A first look at scalability](https://doi.org/10.1103/PhysRevD.104.094507) Phys. Rev. D 104, 094507 (2021). \{[arXiv version](https://doi.org/10.48550/arXiv.2105.12481)\}
+
+`2021`
+Wilson, M., **Marsh Rossney, J.** & Del Debbio, L. [ANVIL (0.9)](https://doi.org/10.5281/zenodo.4792249). Zenodo.
 
 ### Past projects
 
@@ -44,7 +59,7 @@ __Master's Thesis__
 `2017`
 __Internship__
 
-Spectral function projection of TMDC alloys, under the supervision of Dr Nicholas Hine, University of Warwick.
+Spectral function projection of TMDC alloys, under the supervision of Professor Nicholas Hine, University of Warwick.
 
 `2016`
 __Internship__
@@ -59,9 +74,7 @@ Assisting with the transition to new software for climate modelling, under the s
 `2024`
 __\[In progress\] Fellow of the Higher Education Academy__
 
-I am currently progressing through the [Postgraduate Certificate in Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/postgraduate-certificate) course run by the Institute for Academic Development at the University of Edinburgh.
-This course is accredited by the Higher Education Academy at Fellowship level.
-Expected completion: Feb 2024.
+I am approaching the endpoint (May 2024) of the [Postgraduate Certificate in Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/postgraduate-certificate) programme run by the Institute for Academic Development at the University of Edinburgh, which is accredited by the Higher Education Academy at Fellowship level.
 
 `2022`
 __Associate Fellow of the Higher Education Academy__
@@ -72,21 +85,27 @@ This course is accredited by the Higher Education Academy at Associate Fellowshi
 
 ### Experience
 
+`2023-Present`
+__Tutor and Demonstrator__
+
+Edinburgh Futures Institute, University of Edinburgh.
+Sole tutor for the dissertation planning module of the MSc course Data and AI Ethics, and seminar lead for the undergraduate course The Ethics and Politics of Data.
+
 `2022-Present`
 __Edinburgh Teaching Award Mentor__
 
 Mentoring participants of [EdTA](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/teaching-award) at Category 1 level.
 
-`2019-Present`
+`2019-2023`
 __Tutor and Demonstrator__
 
 School of Physics and Astronomy, University of Edinburgh.
-Courses covering Fourier analysis, statistics, Python programming, laboratory skills.
+Courses including Symmetries of Quantum Mechanics, Statistical Mechanics, Fourier Analysis, Statistics, Numerical Recipes, Computer Simulation, Experimental Physics.
 
 `2022`
-__Workshop on Python and Machine Learning__
+__Python + Machine Learning Workshop__
 
-I ran this [workshop](https://marshrossney.github.io/ceres-workshop/) for the Coastal and Environmental Remote Sensing group at the University of Edinburgh.
+I ran a [workshop](https://marshrossney.github.io/ceres-workshop/) for graduate students in the Coastal and Environmental Remote Sensing group at the University of Edinburgh, which focused on tools and best practices for Machine Learning research,
 
 `2021`
 __Course Content Creator__
@@ -117,11 +136,6 @@ __Personal Tutor__
 
 ## Education
 
-`2019-Present`
-__\[In progress\] Doctor of Philosophy (Physics)__
-
-University of Edinburgh. Expected completion: end 2023.
-
 `2014-2018`
 __Integrated Master's Degree (MPhys)__
 
@@ -134,7 +148,8 @@ A Levels: Physics __A\*__, Mathematics __A\*__, Chemistry __A__. \
 GCSEs: 10 x __A\*__, 2 x __A__.
 
 
-## Positions of Responsibility
+
+## Other Positions of Responsibility
 
 `2021-2022`
 __Society Treasurer__
@@ -155,12 +170,13 @@ Political party-affiliated society, University of Warwick.
 __Hotel Staff Member__
 
 
+
 ## References
 
 Available upon request.
 
 ### Last updated
 
-October 2022
+03/02/2024
 
 
