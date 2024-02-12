@@ -5,8 +5,10 @@ title: Joe Marsh Rossney
 # Joe Marsh Rossney
 
 <div id="webaddress">
-Joe.Marsh-Rossney[at]ed.ac.uk
-| <a href="https://marshrossney.github.io">marshrossney.github.io</a>
+marshrossney.github.io
+| <a href="https://github.com/marshrossney">GitHub</a>
+| <a href="https://www.linkedin.com/in/joe-marsh-rossney-08507b2a4/">LinkedIn</a>
+| <a href="https://orcid.org/0000-0002-8082-8566">Orcid</a>
 </div>
 
 
@@ -16,26 +18,19 @@ I am a **PhD candidate** based at the [Higgs Centre for Theoretical Physics](htt
 
 I am also currently a part-time student working towards a [Postgraduate Certificate in Academic Practice](https://www.advance-he.ac.uk/postgraduate-certificate-academic-practice-pgcap), which means I spend a lot of my time teaching undergraduates and MSc students.
 
-After finishing my PhD in April I will begin a short-term research contract with the School of Physics and Astronomy, which is expected to end in September 2024.
+After finishing my PhD in April I will begin a short-term research contract with the School of Physics and Astronomy on the topic of Genative AI in teaching.
+
+If you'd like to know what I'm currently working on take a look at my [GitHub homepage](https://github.com/marshrossney).
 
 
-## Research Interests
+## Research
 
-Broadly speaking my efforts are always to practise thoughtful and responsible use of technology and data to solve the kinds of problems that matter to me, which are mostly themed around physics, education, the environment, and the future of work and creative activity.
+### Key Interests
 
-The primary focus of my PhD research has been on the problem of [Markov Chain Monte Carlo sampling](https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/) in [Lattice Field Theory](http://scholarpedia.org/article/Lattice_quantum_field_theory).
-Specifically, I've been looking at how certain [Generative Machine Learning](https://lilianweng.github.io/posts/2018-10-13-flow-models/) methods can mitigate the severe collapse in sampling efficiency known as [Critical Slowing Down](https://en.wikipedia.org/wiki/Critical_transition), which remains a significant barrier to Lattice QCD studies at fine lattice spacings.
-
-I am currently spending a lot of time contemplating the promises and threats posed by [Generative Artificial Intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) to formative learning experiences, such as undergraduates learning to code for the first time.
-I have secured funding from the School of Physics and Astronomy to carry out research in this area over the summer.
-
-I am very interested in the modelling and monitoring of the natural environment, and was fortunate to join the Coastal and Environmental Remote Sensing Group as a 'visiting' student, where I developed Remote Sensing and GIS skills under the supervision of Dr Encarni Medina-Lopez.
+Generative artificial intelligence & machine learning, theoretical particle physics, lattice field theory, Markov Chain Monte Carlo, pedagogy, educational technology, statistical modelling, remote sensing, ecological monitoring & metrics.
 
 
-### Publications and Software
-
-`2023`
-Albandea, D., Del Debbio, L., Hernández, P., Kenway, R. **Marsh Rossney, J.** & Ramos, A. [Learning Trivializing Flows in a ϕ4 theory from coarser lattices](https://doi.org/10.48550/arXiv.2310.03381) \{preprint\}
+### Publications & Software
 
 `2023`
 Albandea, D., Del Debbio, L., Hernández, P., Kenway, R. **Marsh Rossney, J.** & Ramos, A. [Learning trivializing flows](https://doi.org/10.1140/epjc/s10052-023-1183    8-8). Eur. Phys. J. C 83, 676 (2023). \{[arXiv version](https://doi.org/10.48550/arXiv.2302.08408)\}
@@ -49,12 +44,36 @@ Del Debbio, L., **Marsh Rossney, J.** & Wilson, M. [Efficient modeling of trivia
 `2021`
 Wilson, M., **Marsh Rossney, J.** & Del Debbio, L. [ANVIL (0.9)](https://doi.org/10.5281/zenodo.4792249). Zenodo.
 
-### Past projects
 
-`2017-2018`
-__Master's Thesis__
+### Presentations & Workshops
 
-[Efficient calculation of polymorph free energy differences](https://github.com/marshrossney/pylsmc), under the supervision of Professor David Quigley, University of Warwick.
+`2023`
+[Flow-based sampling of CPN-1 models: how important is equivariance?](https://indico.fnal.gov/event/57249/contributions/272602/)
+
+`2022`
+[Machine Learning Trivializing Maps](https://indico.hiskp.uni-bonn.de/event/40/contributions/464/)
+
+`2022`
+[CEReS Workshop on Python & Machine Learning](https://marshrossney.github.io/ceres-workshop/).
+
+`2021`
+[Machine Learning versus Critical Slowing Down: Investigations into Sampling with Machine-Learned Trivializing Maps](https://indico.cern.ch/event/1006302/contributions/4380644/)
+
+`2021`
+[Normalising Flows as Trivialising Maps for Lattice φ^4 Theory](https://indico.cern.ch/event/830792/contributions/4293022/)
+
+
+### Additional Experience
+
+`2022`
+__Visiting student__
+
+During my PhD I was fortunately able to join the Coastal and Environmental Remote Sensing Group as a 'visiting' student, where I developed remote sensing and GIS skills under the supervision of Dr Encarni Medina-Lopez.
+
+`2018`
+__Master's thesis__
+
+[Efficient calculation of polymorph free energy differences](https://github.com/marshrossney/pylsmc), under the supervision of Professor David Quigley.
 
 `2017`
 __Internship__
@@ -67,34 +86,27 @@ __Internship__
 Assisting with the transition to new software for climate modelling, under the supervision of Professor Joanna Haigh, Imperial College London.
 
 
+
 ## Teaching
 
-### Qualifications
-
-`2024`
-__\[In progress\] Fellow of the Higher Education Academy__
-
-I am approaching the endpoint (May 2024) of the [Postgraduate Certificate in Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/postgraduate-certificate) programme run by the Institute for Academic Development at the University of Edinburgh, which is accredited by the Higher Education Academy at Fellowship level.
-
-`2022`
-__Associate Fellow of the Higher Education Academy__
-
-I completed the [Introduction to Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/intro-ap) course run by the Institute for Academic Development at the University of Edinburgh.
-This course is accredited by the Higher Education Academy at Associate Fellowship level.
-
-
-### Experience
+### Employment
 
 `2023-Present`
 __Tutor and Demonstrator__
 
 Edinburgh Futures Institute, University of Edinburgh.
-Sole tutor for the dissertation planning module of the MSc course Data and AI Ethics, and seminar lead for the undergraduate course The Ethics and Politics of Data.
+Courses including: Data and AI Ethics: Final Project Planning (MSc), The Ethics and Politics of Data.
 
-`2022-Present`
-__Edinburgh Teaching Award Mentor__
+`2023`
+__Postdoctoral Research Associate \[Teaching\]__
 
-Mentoring participants of [EdTA](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/teaching-award) at Category 1 level.
+School of Physics and Astronomy, University of Edinburgh.
+This three-month PDRA contract was for extended teaching duties in undergraduate laboratories.
+
+`2021`
+__Course Demonstrator__
+
+[The Discovery of the Higgs Boson](https://www.futurelearn.com/courses/higgs) (open online course).
 
 `2019-2023`
 __Tutor and Demonstrator__
@@ -102,39 +114,56 @@ __Tutor and Demonstrator__
 School of Physics and Astronomy, University of Edinburgh.
 Courses including Symmetries of Quantum Mechanics, Statistical Mechanics, Fourier Analysis, Statistics, Numerical Recipes, Computer Simulation, Experimental Physics.
 
-`2022`
-__Python + Machine Learning Workshop__
+`2018-2019`
+__SEN Teaching Support and Substitute Teacher__
 
-I ran a [workshop](https://marshrossney.github.io/ceres-workshop/) for graduate students in the Coastal and Environmental Remote Sensing group at the University of Edinburgh, which focused on tools and best practices for Machine Learning research,
+Secondary school level mathematics and physics.
+SEN: Special Educational Needs.
+
+`2013-2014`
+__Piano Teacher__
+
+`2013-2014`
+__Private Tutor__
+
+
+### Additional Experience
+
+`2022-Present`
+__Edinburgh Teaching Award Mentor__
+
+Mentoring colleagues participating in the [Edinburgh Teaching Award](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/teaching-award) at Category 1 level.
 
 `2021`
 __Course Content Creator__
 
 I created a '[virtual experiment](https://www.github.com/marshrossney/percolation)' which was used as a substitute for laboratory work by undergraduate students at the University of Edinburgh during the Covid-19 lockdown.
 
-`2021`
-__Course Demonstrator__
-
-[The Discovery of the Higgs Boson](https://www.futurelearn.com/courses/higgs) (open online course).
-
-`2018-2019`
-__Substitute Teacher and Teaching Support__
-
-A-Level mathematics and physics.
-
 `2016`
 __Course Content Creator__
 
 Created a [pedagogical climate model](https://github.com/marshrossney/EPcm) for an undergraduate course at Imperial College London, under instruction of course organiser.
 
-`2013-2014`
-__Piano Teacher__
 
-`2013-2014`
-__Personal Tutor__
+## Education & Qualifications
 
+`2023-Present`
+__Postgraduate Certificate in Academic Practice \[in progress\]__
 
-## Education
+University of Edinburgh. Expected completion in summer 2024.
+This course is accredited by the Higher Education Academy at Fellowship level.
+
+`2019-Present`
+__Doctor of Philosophy: Physics \[in progress\]__
+
+University of Edinburgh. Expected completion in summer 2024.
+
+Thesis title: 'Generative Models for Sampling in Lattice Field Theory'.
+
+`2022`
+__Associate Fellow of the Higher Education Academy__
+
+I completed the [Introduction to Academic Practice](https://www.ed.ac.uk/institute-academic-development/learning-teaching/cpd/intro-ap) course at the University of Edinburgh, which is accredited by the Higher Education Academy at Associate Fellowship level.
 
 `2014-2018`
 __Integrated Master's Degree (MPhys)__
@@ -146,6 +175,9 @@ __Secondary Education__
 
 A Levels: Physics __A\*__, Mathematics __A\*__, Chemistry __A__. \
 GCSEs: 10 x __A\*__, 2 x __A__.
+
+`2012`
+__Grade 8 Piano (ABRSM)__
 
 
 
@@ -159,7 +191,7 @@ Conservation volunteering society, University of Edinburgh.
 `2016-2017`
 __Editor__
 
-[The Warwick Globalist](http://warwickglobalist.com), Science and Technology section.
+The Warwick Globalist, Science and Technology section.
 
 `2016-2017`
 __Society President__
@@ -170,13 +202,16 @@ Political party-affiliated society, University of Warwick.
 __Hotel Staff Member__
 
 
+### Contact
 
-## References
+Joe.Marsh-Rossney\[at\]ed.ac.uk
+
+### References
 
 Available upon request.
 
 ### Last updated
 
-03/02/2024
+12/02/2024
 
 
