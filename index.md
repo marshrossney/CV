@@ -15,10 +15,11 @@ marshrossney.github.io
 ## Currently
 
 I am a **PhD candidate** based at the [Higgs Centre for Theoretical Physics](https://higgs.ph.ed.ac.uk/) at the University of Edinburgh, under the supervision of Professor Luigi Del Debbio.
+My thesis is titled *__Sampling in Lattice Field Theory with Flow-based Generative Models__*.
 
 I am also currently a part-time student working towards a [Postgraduate Certificate in Academic Practice](https://www.advance-he.ac.uk/postgraduate-certificate-academic-practice-pgcap), which means I spend a lot of my time teaching undergraduates and MSc students.
 
-After finishing my PhD in April I will begin a short-term research contract with the School of Physics and Astronomy on the topic of Genative AI in teaching.
+After finishing my PhD in April I will spend the summer months working for the School of Physics and Astronomy on projects related to Genative AI in teaching.
 
 If you'd like to know what I'm currently working on take a look at my [GitHub homepage](https://github.com/marshrossney).
 
@@ -158,7 +159,7 @@ __Doctor of Philosophy: Physics \[in progress\]__
 
 University of Edinburgh. Expected completion in summer 2024.
 
-Thesis title: 'Generative Models for Sampling in Lattice Field Theory'.
+Thesis title: 'Sampling in Lattice Field Theory with Flow-based Generative Models'.
 
 `2022`
 __Associate Fellow of the Higher Education Academy__
