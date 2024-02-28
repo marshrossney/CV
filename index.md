@@ -27,7 +27,7 @@ If you'd like to know what I'm currently working on take a look at my [GitHub ho
 
 ### Key Interests
 
-Generative artificial intelligence & machine learning, theoretical particle physics, lattice field theory, Markov Chain Monte Carlo, pedagogy, educational technology, statistical modelling, remote sensing, ecological monitoring & metrics.
+Generative artificial intelligence & machine learning, theoretical particle physics, lattice field theory, Markov Chain Monte Carlo, teaching, educational technology, statistical modelling, remote sensing, ecological monitoring & metrics.
 
 
 ### Publications & Software
@@ -212,6 +212,6 @@ Available upon request.
 
 ### Last updated
 
-12/02/2024
+28/02/2024
 
 
